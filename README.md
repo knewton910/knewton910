@@ -1,4 +1,3 @@
--->
 # Hi there 👋, I'm @knewton910
 
 MPH student at **Morehouse School of Medicine** | Passionate about **data science, health informatics, & epidemiology** for public health solutions
